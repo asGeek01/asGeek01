@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @asGeek01
+- 👋 Hi, I’m Solomon AGOUNMALO
+- ✨ I'm a web and mobile Developer
 - 👀 I’m interested in Digital Technologic
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Artificial Intelligent
